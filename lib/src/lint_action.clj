@@ -169,7 +169,7 @@
 (def default-option {:linters "all"
                      :cwd "./"
                      :relative-dir ""
-                     :mode :cli
+                     :mode :github-action
                      :file-target :find
                      :use-files false
                      :files []
